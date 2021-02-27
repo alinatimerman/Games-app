@@ -1,0 +1,10 @@
+10
+1; as; fdf; 1; 1
+2; s; ff; 2; 1
+3; sss; ff; 2; 1
+4; sss; ff; 4; 2
+5; as; a; 14; 3
+6; sss; ff; 4; 2
+7; sss; ff; 4; 2
+8; aaaa; bbbb; 13; 3
+9; lina; ana; 12; 3
